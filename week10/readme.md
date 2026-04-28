@@ -2,6 +2,8 @@
 
 > 本講義整理 Conda 的常用指令，幫助你快速掌握 Python 環境與套件管理。
 
+![Conda 教學速查圖](images/conda-overview.png)
+
 ---
 
 ## 學習目標
